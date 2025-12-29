@@ -1,0 +1,96 @@
+﻿@model SatisTakipSistemi.Models.SatisKaydi
+
+@{
+    ViewData["Title"] = "Kaydı Düzenle";
+}
+
+<h1 class="h3 mb-4 text-gray-800">Satış Görüşmesini Güncelle</h1>
+
+<div class="row">
+    <div class="col-lg-8">
+        <div class="card shadow mb-4">
+            <div class="card-header py-3 border-bottom-primary">
+                <h6 class="m-0 font-weight-bold text-primary">Düzenlenen Firma: @Model.FirmaAdi</h6>
+            </div>
+            <div class="card-body">
+                <form asp-action="Edit">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="Id" />
+
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <label asp-for="FirmaAdi" class="control-label font-weight-bold">Firma Adı</label>
+                            <input asp-for="FirmaAdi" class="form-control" />
+                            <span asp-validation-for="FirmaAdi" class="text-danger"></span>
+                        </div>
+                        <div class="form-group col-md-6">
+                            <label asp-for="SorumluSatisci" class="control-label font-weight-bold">Sorumlu Personel</label>
+                            <input asp-for="SorumluSatisci" class="form-control" />
+                            <span asp-validation-for="SorumluSatisci" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <label asp-for="FirmaTelefon" class="control-label font-weight-bold">Telefon</label>
+                            <input asp-for="FirmaTelefon" class="form-control" />
+                            <span asp-validation-for="FirmaTelefon" class="text-danger"></span>
+                        </div>
+                        <div class="form-group col-md-6">
+                            <label asp-for="FirmaMail" class="control-label font-weight-bold">E-Posta</label>
+                            <input asp-for="FirmaMail" type="email" class="form-control" />
+                            <span asp-validation-for="FirmaMail" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <label asp-for="Durum" class="control-label font-weight-bold">Güncel Durum</label>
+                            <select asp-for="Durum" class="form-control">
+                                <option value="Ulaşıldı">Ulaşıldı</option>
+                                <option value="Dönüş Bekleniyor">Dönüş Bekleniyor</option>
+                                <option value="Teklif Gönderildi">Teklif Gönderildi</option>
+                                <option value="Satış Onaylandı">Satış Onaylandı</option>
+                                <option value="Olumsuz">Olumsuz</option>
+                            </select>
+                            <span asp-validation-for="Durum" class="text-danger"></span>
+                        </div>
+                        <div class="form-group col-md-6">
+                            <label asp-for="Tarih" class="control-label font-weight-bold">Görüşme Tarihi</label>
+                            <input asp-for="Tarih" class="form-control" />
+                            <span asp-validation-for="Tarih" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Notlar" class="control-label font-weight-bold">Notlar</label>
+                        <textarea asp-for="Notlar" class="form-control" rows="3"></textarea>
+                        <span asp-validation-for="Notlar" class="text-danger"></span>
+                    </div>
+
+                    <hr>
+
+                    <button type="submit" class="btn btn-primary btn-icon-split">
+                        <span class="icon text-white-50">
+                            <i class="fas fa-save"></i>
+                        </span>
+                        <span class="text">Değişiklikleri Kaydet</span>
+                    </button>
+
+                    <a asp-action="Index" class="btn btn-secondary btn-icon-split ml-2">
+                        <span class="icon text-white-50">
+                            <i class="fas fa-arrow-left"></i>
+                        </span>
+                        <span class="text">İptal</span>
+                    </a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

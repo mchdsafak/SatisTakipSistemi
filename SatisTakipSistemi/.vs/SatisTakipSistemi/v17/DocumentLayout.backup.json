@@ -1,0 +1,641 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\views\\satiskaydis\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\views\\satiskaydis\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\views\\satiskaydis\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\views\\satiskaydis\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\views\\satiskaydis\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\views\\satiskaydis\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\properties\\publishprofiles\\registry.hub.docker.com_mchdsafak.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\properties\\publishprofiles\\registry.hub.docker.com_mchdsafak.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\views\\satiskaydis\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\views\\satiskaydis\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\views\\satiskaydis\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\views\\satiskaydis\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\wwwroot\\js\\sb-admin-2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\wwwroot\\js\\sb-admin-2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\wwwroot\\js\\demo\\datatables-demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\wwwroot\\js\\demo\\datatables-demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\wwwroot\\js\\demo\\chart-pie-demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\wwwroot\\js\\demo\\chart-pie-demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\wwwroot\\js\\demo\\chart-bar-demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\wwwroot\\js\\demo\\chart-bar-demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\wwwroot\\js\\demo\\chart-area-demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\wwwroot\\js\\demo\\chart-area-demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\wwwroot\\img\\undraw_profile.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\wwwroot\\img\\undraw_profile.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\wwwroot\\img\\undraw_posting_photo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\wwwroot\\img\\undraw_posting_photo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\wwwroot\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\wwwroot\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\models\\satiskaydi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\models\\satiskaydi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\controllers\\satiskaydiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\controllers\\satiskaydiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\satistakipsistemi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\satistakipsistemi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mucah\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|c:\\users\\mucah\\source\\repos\\satistakipsistemi\\satistakipsistemi\\migrations\\20251213161128_gecis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B705138-CEE4-4E03-BFE8-8C1DC5958544}|SatisTakipSistemi\\SatisTakipSistemi.csproj|solutionrelative:satistakipsistemi\\migrations\\20251213161128_gecis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 481,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "SatisTakipSistemi\\Properties\\serviceDependencies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-14T17:32:21.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Views\\SatisKaydis\\Details.cshtml",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\Views\\SatisKaydis\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Views\\SatisKaydis\\Details.cshtml",
+              "RelativeToolTip": "SatisTakipSistemi\\Views\\SatisKaydis\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T17:31:46.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SatisTakipSistemi\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T17:31:34.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SatisTakipSistemi\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T17:31:33.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Program.cs",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\Program.cs",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Program.cs",
+              "RelativeToolTip": "SatisTakipSistemi\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T15:57:57.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-14T14:12:07.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Views\\SatisKaydis\\Create.cshtml",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\Views\\SatisKaydis\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Views\\SatisKaydis\\Create.cshtml",
+              "RelativeToolTip": "SatisTakipSistemi\\Views\\SatisKaydis\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T16:43:59.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Views\\SatisKaydis\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\Views\\SatisKaydis\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Views\\SatisKaydis\\Delete.cshtml",
+              "RelativeToolTip": "SatisTakipSistemi\\Views\\SatisKaydis\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T16:56:20.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "registry.hub.docker.com_mchdsafak.pubxml",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Properties\\PublishProfiles\\registry.hub.docker.com_mchdsafak.pubxml",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\Properties\\PublishProfiles\\registry.hub.docker.com_mchdsafak.pubxml",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Properties\\PublishProfiles\\registry.hub.docker.com_mchdsafak.pubxml",
+              "RelativeToolTip": "SatisTakipSistemi\\Properties\\PublishProfiles\\registry.hub.docker.com_mchdsafak.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-14T17:32:37.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SatisTakipSistemi\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T17:31:32.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Views\\SatisKaydis\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\Views\\SatisKaydis\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Views\\SatisKaydis\\Edit.cshtml",
+              "RelativeToolTip": "SatisTakipSistemi\\Views\\SatisKaydis\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T16:49:41.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Views\\SatisKaydis\\Index.cshtml",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\Views\\SatisKaydis\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Views\\SatisKaydis\\Index.cshtml",
+              "RelativeToolTip": "SatisTakipSistemi\\Views\\SatisKaydis\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T16:52:48.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SatisTakipSistemi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-13T16:32:50.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SatisTakipSistemi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T17:31:30.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "SatisTakipSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-14T17:31:17.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeToolTip": "SatisTakipSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-14T17:31:17.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "datatables-demo.js",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\wwwroot\\js\\demo\\datatables-demo.js",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\wwwroot\\js\\demo\\datatables-demo.js",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\wwwroot\\js\\demo\\datatables-demo.js",
+              "RelativeToolTip": "SatisTakipSistemi\\wwwroot\\js\\demo\\datatables-demo.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-14T17:29:25.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "chart-pie-demo.js",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\wwwroot\\js\\demo\\chart-pie-demo.js",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\wwwroot\\js\\demo\\chart-pie-demo.js",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\wwwroot\\js\\demo\\chart-pie-demo.js",
+              "RelativeToolTip": "SatisTakipSistemi\\wwwroot\\js\\demo\\chart-pie-demo.js",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-14T17:29:23.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "chart-bar-demo.js",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\wwwroot\\js\\demo\\chart-bar-demo.js",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\wwwroot\\js\\demo\\chart-bar-demo.js",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\wwwroot\\js\\demo\\chart-bar-demo.js",
+              "RelativeToolTip": "SatisTakipSistemi\\wwwroot\\js\\demo\\chart-bar-demo.js",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAcwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-14T17:29:21.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "chart-area-demo.js",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\wwwroot\\js\\demo\\chart-area-demo.js",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\wwwroot\\js\\demo\\chart-area-demo.js",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\wwwroot\\js\\demo\\chart-area-demo.js",
+              "RelativeToolTip": "SatisTakipSistemi\\wwwroot\\js\\demo\\chart-area-demo.js",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAcwEgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-14T17:29:20.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SatisTakipSistemi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAEgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T16:32:07.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "undraw_profile.svg",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\wwwroot\\img\\undraw_profile.svg",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\wwwroot\\img\\undraw_profile.svg",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\wwwroot\\img\\undraw_profile.svg",
+              "RelativeToolTip": "SatisTakipSistemi\\wwwroot\\img\\undraw_profile.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-14T17:29:16.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "sb-admin-2.js",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\wwwroot\\js\\sb-admin-2.js",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\wwwroot\\js\\sb-admin-2.js",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\wwwroot\\js\\sb-admin-2.js",
+              "RelativeToolTip": "SatisTakipSistemi\\wwwroot\\js\\sb-admin-2.js",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-14T16:47:42.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "SatisTakipSistemi\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-14T16:47:49.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "undraw_posting_photo.svg",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\wwwroot\\img\\undraw_posting_photo.svg",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\wwwroot\\img\\undraw_posting_photo.svg",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\wwwroot\\img\\undraw_posting_photo.svg",
+              "RelativeToolTip": "SatisTakipSistemi\\wwwroot\\img\\undraw_posting_photo.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-14T17:29:15.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Dockerfile",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\Dockerfile",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Dockerfile",
+              "RelativeToolTip": "SatisTakipSistemi\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-14T14:11:22.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\appsettings.Development.json",
+              "RelativeToolTip": "SatisTakipSistemi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-13T16:25:02.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "sb-admin-2.css",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\wwwroot\\css\\sb-admin-2.css",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\wwwroot\\css\\sb-admin-2.css",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\wwwroot\\css\\sb-admin-2.css",
+              "RelativeToolTip": "SatisTakipSistemi\\wwwroot\\css\\sb-admin-2.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-14T17:21:26.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SatisTakipSistemi\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-13T15:45:11.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SatisTakipSistemi\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:47:31.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SatisKaydisController.cs",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Controllers\\SatisKaydisController.cs",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\Controllers\\SatisKaydisController.cs",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Controllers\\SatisKaydisController.cs",
+              "RelativeToolTip": "SatisTakipSistemi\\Controllers\\SatisKaydisController.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAAwLIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T16:29:09.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SatisKaydi.cs",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Models\\SatisKaydi.cs",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\Models\\SatisKaydi.cs",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Models\\SatisKaydi.cs",
+              "RelativeToolTip": "SatisTakipSistemi\\Models\\SatisKaydi.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T16:14:04.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SatisTakipSistemi",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\SatisTakipSistemi.csproj",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\SatisTakipSistemi.csproj",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\SatisTakipSistemi.csproj",
+              "RelativeToolTip": "SatisTakipSistemi\\SatisTakipSistemi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-13T16:32:47.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SatisTakipSistemi\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T16:20:06.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\appsettings.json",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\appsettings.json",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\appsettings.json",
+              "RelativeToolTip": "SatisTakipSistemi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-13T16:32:21.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20251213161128_Gecis.cs",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Migrations\\20251213161128_Gecis.cs",
+              "RelativeDocumentMoniker": "SatisTakipSistemi\\Migrations\\20251213161128_Gecis.cs",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\SatisTakipSistemi\\SatisTakipSistemi\\Migrations\\20251213161128_Gecis.cs",
+              "RelativeToolTip": "SatisTakipSistemi\\Migrations\\20251213161128_Gecis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T16:11:28.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\mucah\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\build\\Container.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\mucah\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\build\\Container.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\build\\Container.targets",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAiwNkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-12T16:34:07.671Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 611,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

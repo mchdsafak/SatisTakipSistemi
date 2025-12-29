@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SatisTakipSistemi
+build_property.RootNamespace = SatisTakipSistemi
+build_property.ProjectDir = C:\Users\mucah\source\repos\SatisTakipSistemi\SatisTakipSistemi\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mucah\source\repos\SatisTakipSistemi\SatisTakipSistemi
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/mucah/source/repos/SatisTakipSistemi/SatisTakipSistemi/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mucah/source/repos/SatisTakipSistemi/SatisTakipSistemi/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mucah/source/repos/SatisTakipSistemi/SatisTakipSistemi/Views/SatisKaydis/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2F0aXNLYXlkaXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mucah/source/repos/SatisTakipSistemi/SatisTakipSistemi/Views/SatisKaydis/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2F0aXNLYXlkaXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mucah/source/repos/SatisTakipSistemi/SatisTakipSistemi/Views/SatisKaydis/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2F0aXNLYXlkaXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mucah/source/repos/SatisTakipSistemi/SatisTakipSistemi/Views/SatisKaydis/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2F0aXNLYXlkaXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mucah/source/repos/SatisTakipSistemi/SatisTakipSistemi/Views/SatisKaydis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2F0aXNLYXlkaXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mucah/source/repos/SatisTakipSistemi/SatisTakipSistemi/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mucah/source/repos/SatisTakipSistemi/SatisTakipSistemi/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mucah/source/repos/SatisTakipSistemi/SatisTakipSistemi/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mucah/source/repos/SatisTakipSistemi/SatisTakipSistemi/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mucah/source/repos/SatisTakipSistemi/SatisTakipSistemi/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7ob0dpkd2c

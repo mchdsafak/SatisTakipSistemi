@@ -1,0 +1,148 @@
+﻿@model IEnumerable<SatisTakipSistemi.Models.SatisKaydi>
+
+@{
+    ViewData["Title"] = "Firma Listesi";
+}
+
+<h1 class="h3 mb-2 text-gray-800">Firma Görüşme Listesi</h1>
+<p class="mb-4">
+    Listeden bir firmanın <strong>Adına, Telefonuna veya Sorumlusuna</strong> tıklayarak bilgileri doğrudan güncelleyebilirsiniz.
+</p>
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3 d-flex justify-content-between align-items-center">
+        <h6 class="m-0 font-weight-bold text-primary">Kayıtlı Görüşmeler</h6>
+        <a asp-action="Create" class="btn btn-primary btn-icon-split btn-sm">
+            <span class="icon text-white-50">
+                <i class="fas fa-plus"></i>
+            </span>
+            <span class="text">Yeni Görüşme Ekle</span>
+        </a>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Firma Adı</th>
+                        <th>Yetkili / Telefon</th>
+                        <th>Sorumlu Personel</th>
+                        <th>Tarih</th>
+                        <th>Durum</th>
+                        <th>İşlemler</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td contenteditable="true"
+                                data-id="@item.Id"
+                                data-kolon="FirmaAdi"
+                                class="editable-cell font-weight-bold">
+                                @item.FirmaAdi
+                            </td>
+
+                            <td>
+                                <div>
+                                    <i class="fas fa-phone fa-xs text-gray-400"></i>
+                                    <span contenteditable="true"
+                                          data-id="@item.Id"
+                                          data-kolon="FirmaTelefon"
+                                          class="editable-cell">@item.FirmaTelefon</span>
+                                </div>
+                                <div class="small text-gray-500">
+                                    <span contenteditable="true"
+                                          data-id="@item.Id"
+                                          data-kolon="FirmaMail"
+                                          class="editable-cell">@item.FirmaMail</span>
+                                </div>
+                            </td>
+
+                            <td contenteditable="true"
+                                data-id="@item.Id"
+                                data-kolon="SorumluSatisci"
+                                class="editable-cell">
+                                @item.SorumluSatisci
+                            </td>
+
+                            <td>@item.Tarih.ToString("dd.MM.yyyy HH:mm")</td>
+
+                            <td class="text-center">
+                                @if (item.Durum != null && item.Durum.Contains("Onaylandı"))
+                                {
+                                    <span class="badge badge-success px-2 py-1">@item.Durum</span>
+                                }
+                                else if (item.Durum != null && (item.Durum.Contains("Olumsuz") || item.Durum.Contains("İptal")))
+                                {
+                                    <span class="badge badge-danger px-2 py-1">@item.Durum</span>
+                                }
+                                else if (item.Durum != null && item.Durum.Contains("Teklif"))
+                                {
+                                    <span class="badge badge-info px-2 py-1">@item.Durum</span>
+                                }
+                                else
+                                {
+                                    <span class="badge badge-warning px-2 py-1">@item.Durum</span>
+                                }
+                            </td>
+
+                            <td class="text-center">
+                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-info btn-circle btn-sm" title="Düzenle">
+                                    <i class="fas fa-pen"></i>
+                                </a>
+                                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-secondary btn-circle btn-sm" title="Detay">
+                                    <i class="fas fa-eye"></i>
+                                </a>
+                                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-circle btn-sm" title="Sil">
+                                    <i class="fas fa-trash"></i>
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+
+            $('.editable-cell').on('blur', function () {
+                var hucre = $(this);
+                var yeniDeger = hucre.text().trim(); // Yazılan yeni yazı
+                var id = hucre.data('id');           // Hangi satır?
+                var kolon = hucre.data('kolon');     // Hangi sütun?
+
+                $.ajax({
+                    url: '/SatisKaydis/HucreGuncelle',
+                    type: 'POST',
+                    data: { id: id, kolon: kolon, deger: yeniDeger },
+                    success: function (response) {
+                        if (response.success) {
+                            hucre.css('background-color', '#d4edda');
+                            setTimeout(function() {
+                                hucre.css('background-color', '');
+                            }, 500);
+                            console.log("Kayıt Başarılı: " + kolon);
+                        } else {
+                            alert("Hata: Kayıt yapılamadı.");
+                        }
+                    },
+                    error: function () {
+                    }
+                });
+            });
+
+            $('.editable-cell').on('keydown', function(e) {
+                if(e.keyCode === 13) { 
+                    e.preventDefault(); 
+                    $(this).blur();  
+                }
+            });
+
+        });
+    </script>
+}
